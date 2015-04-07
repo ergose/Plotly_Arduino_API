@@ -59,6 +59,8 @@ void loop() {
 
 ## 5 Minute Quickstart
 
+**Note: this library doesn't work with the latest Arduino IDE. Use 1.0.3 (for WiFi) or 1.0.5 for other shields. See https://github.com/plotly/arduino-api/issues/38 for more details**
+
 If you're working on the Yún, click on the [`plotly_yun`](/plotly_yun) folder for separate instructions.
 
 If you're device isn't internet connected, you can still connect to plotly over serial. Click on the [`plotly_streaming_serial`](/plotly_streaming_serial) folder for separate instructions.
