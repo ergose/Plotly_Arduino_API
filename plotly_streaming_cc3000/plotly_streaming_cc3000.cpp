@@ -7,7 +7,7 @@
 #define ADAFRUIT_CC3000_CS    10
 #include "plotly_streaming_cc3000.h"
 
-#include <avr/dtostrf.h>
+//#include <avr/dtostrf.h>
 #include <avr/pgmspace.h>
 
 
